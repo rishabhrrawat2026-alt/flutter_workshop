@@ -1,4 +1,4 @@
-# counter_app
+# counter_app and profie_card
 
 A new Flutter project.
 
